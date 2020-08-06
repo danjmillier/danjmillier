@@ -1,9 +1,9 @@
 ### Hi there, I'm Daniel 👋
 
-## I'm a Father & Developer
+## I'm a Father, Developer & Digital Creator
 - 🌱 I’m currently learning React Hooks & Context API!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and build my own portfolio
+- 🥅 2020 Goals: Contribute to Open Source projects, start my YouTube channel & build a portfolio!
 - ⚡ Fun fact: I have a stutter and love to read
 
 ### Connect with me:
