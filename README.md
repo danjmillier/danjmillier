@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel 👋🇨🇦
+### Hi there, I'm Daniel 👋
 
 ## I'm a Father, Developer & Digital Creator
 - 🌱 I’m currently learning Flutter and Kotlin!
