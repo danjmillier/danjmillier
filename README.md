@@ -1,7 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-## I'm a Software Developer & Father
-- 🌱 I’m interested in JavaScript, Python, & Rust.
-- 🔐 Breaking into the cyber security field!
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I have a stutter and love to read
+## I'm a Junior Cyber Security Analyst & Father
+- 🌱 I’m interested in Cybersecurity 🔐, Cloud ☁️, Python 🐍, & Linux 🐧.
+- 🥅 2024 Goals: Land a SOC Analyst gig.
+- ⚡ Fun fact: I'm neurodivergent 🦄.
